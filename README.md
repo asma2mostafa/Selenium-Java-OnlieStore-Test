@@ -1,4 +1,4 @@
-# BIGInterviewTest
+# Selenium-Java-OnlieStore-Test
 Java maven project for ceramic studio online store:
 Project contains a java file for each page:
 •	home.java: contains the steps that user makes from the home page till reaching product details page 
